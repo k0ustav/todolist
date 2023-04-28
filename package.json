@@ -1,5 +1,5 @@
 {
-  "name": "todolist-v1",
+  "name": "todolist-webapp",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -16,4 +16,6 @@
     "mongoos": "^0.0.1-security",
     "mongoose": "^7.0.4"
   }
+
+  
 }
