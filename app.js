@@ -1,6 +1,6 @@
 
 
-//First run mongod and mongosh in terminal
+//First run mongod and mongosh in terminal if run on local system
 
 
 const bodyParser = require("body-parser");
